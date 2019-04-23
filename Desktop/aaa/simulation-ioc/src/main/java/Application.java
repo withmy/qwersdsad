@@ -14,6 +14,6 @@ public class Application {
 
     public static void main(String[] args) throws InstantiationException, IllegalAccessException, InvocationTargetException {
         BeanConfig.putClass();
-        System.out.println(1213);
+        System.out.println(1213122123);
     }
 }
